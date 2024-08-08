@@ -1,5 +1,7 @@
 ﻿# covid-webpage
  This project is a COVID-19 awareness website that provides essential information about the virus, including symptoms, prevention measures, and proper handwashing techniques. The site is built using HTML, CSS, and JavaScript to deliver a responsive and informative experience.
+ 
+ https://covid-19-aware.netlify.app/
 
 # Features
 Home Section : Offers an introduction to COVID-19 and encourages users to stay home and stay safe.
